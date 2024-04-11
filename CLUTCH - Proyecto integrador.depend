@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1708552343 source:c:\users\panch\onedrive\escritorio\aaaaaawidawjiod\code\proyecto integrador\clutch - proyecto integrador\funciones.cpp
+	<iostream>
+	<locale>
+	"funciones.h"
+
+1708552343 c:\users\panch\onedrive\escritorio\aaaaaawidawjiod\code\proyecto integrador\clutch - proyecto integrador\funciones.h
+
+1708552355 source:c:\users\panch\onedrive\escritorio\aaaaaawidawjiod\code\proyecto integrador\clutch - proyecto integrador\main.cpp
+	<iostream>
+	<locale>
+	<ctime>
+	<cstdlib>
+	"funciones.h"
+
